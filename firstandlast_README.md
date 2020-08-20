@@ -1,0 +1,1 @@
+gets.chomp is used to stop the code from starting on a new line which could also be represented by a /n .
